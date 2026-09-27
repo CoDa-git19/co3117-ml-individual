@@ -1,0 +1,2 @@
+- Dataset and use case (R0 artifact) -> docs/USE_CASE.md
+- Frozen experimental protocol       -> docs/PROTOCOL.md
