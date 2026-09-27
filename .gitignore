@@ -1,0 +1,16 @@
+data/UCI HAR Dataset/
+data/*.zip
+data/*.npz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+### Operating system and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+### Only commit data/README.md
+data/*
