@@ -1,0 +1,12 @@
+# Normalise line endings: the repository stores LF for all text files
+* text=auto eol=lf
+
+# Shell scripts MUST use LF, otherwise they fail on Linux
+*.sh text eol=lf
+
+# Binary files: leave untouched
+*.png binary
+*.jpg binary
+*.pdf binary
+*.zip binary
+*.npz binary
