@@ -22,7 +22,7 @@
 | Drill | [release-baseline-w01-w04.pdf](exercises/release-baseline-w01-w04.pdf), 2026-09-27 |
 | First evidence | Commit [`a4710ec`](../../commit/a4710ec) — `[W05][baseline] closed-book W01-W04 diagnostic, first attempt` |
 | Revision commit | Commit [`53811b4`](../../commit/53811b4) — `[W05][review] baseline corrections with slide citations`, see [corrections](exercises/release-baseline-corrections.md) |
-| Code / experiment | `src/from_scratch/tree_split.py` + `tests/test_tree_split.py` — `<pending>` |
+| Code / experiment | [tree_split.py](src/from_scratch/tree_split.py) + [tests](tests/test_tree_split.py) |
 | Tag | `release-baseline` — `<pending>` |
 | Status | PRE-RELEASE · drill complete, post pending |
 
