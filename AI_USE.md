@@ -39,7 +39,7 @@ AI tool(s) used: Claude, via the web interface.
 
 | Field | Required entry |
 |---|---|
-| Week / Date | W05 / 2026-09-27 |
+| Week / Date | W05 / 2026-09-28 |
 | Learning question | Trong phần về các độ đo phân lớp, tôi định nghĩa FP là "a bounding box NO matching ground-truth object exists in that location", và FN là "miss or fail to generate a valid bounding box although the real object exists, and this FN is infinite.". Đừng cho tôi định nghĩa đúng. Hãy hỏi tôi một câu duy nhất giúp tôi tự nhận ra định nghĩa này có phù hợp với bài toán tôi đang làm hay không. Chờ tôi trả lời rồi mới hỏi tiếp. |
 | Pre-AI evidence | a4710ec |
 | Prompt purpose | Socratic question |
@@ -50,7 +50,7 @@ AI tool(s) used: Claude, via the web interface.
 
 | Field | Required entry |
 |---|---|
-| Week / Date | W05 / 2026-09-27 |
+| Week / Date | W05 / 2026-09-28 |
 | Learning question | Ngưỡng tau trong pre-pruning được xác định dựa trên cái gì? |
 | Pre-AI evidence | a4710ec |
 | Prompt purpose | Socratic question |
